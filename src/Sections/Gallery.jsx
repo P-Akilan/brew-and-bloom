@@ -1,9 +1,9 @@
-import Gallerygroupcoffee3 from "../assets/Images/Gallery-group-coffee3.jpg";
-import Gallerygroupcoffee2 from "../assets/Images/Gallery-group-coffee2.jpg";
-import cafeshop3 from "../assets/Images/cafeshop3.jpg";
-import cafeshop from "../assets/Images/cafeshop2.jpg";
+import Gallerygroupcoffee3 from "../assets/images/Gallery-group-coffee3.jpg";
+import Gallerygroupcoffee2 from "../assets/images/Gallery-group-coffee2.jpg";
+import cafeshop3 from "../assets/images/cafeshop3.jpg";
+import cafeshop from "../assets/images/cafeshop2.jpg";
 
-const galleryImages = [
+const galleryimages = [
   {
     id: 1,
     image: cafeshop,
@@ -42,7 +42,7 @@ function Gallery() {
         </div>
 
         <div className="row g-3 mt-4">
-          {galleryImages.map((item) => (
+          {galleryimages.map((item) => (
             <div className="col-12 col-md-6" key={item.id}>
               <div className="gallery-image-wrapper">
                 <img

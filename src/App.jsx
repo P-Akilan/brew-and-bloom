@@ -1,5 +1,5 @@
-import Navbar from "./Component/Navbar";
-import Hero from "./Sections/Hero";
+import Navbar from "./component/Navbar";
+import Hero from "./sections/Hero";
 import FeaturedCoffee from "./sections/FeaturedCoffee";
 import About from "./sections/About";
 import WhyChooseUs from "./sections/WhyChooseUs";
