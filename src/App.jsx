@@ -1,13 +1,13 @@
-import Navbar from "./component/Navbar.jsx";
-import Hero from "./sections/Hero.jsx";
-import FeaturedCoffee from "./sections/FeaturedCoffee.jsx";
-import About from "./sections/About.jsx";
-import WhyChooseUs from "./sections/WhyChooseUs.jsx";
-import Menu from "./sections/Menu.jsx";
-import Gallery from "./sections/Gallery.jsx";
-import Testimonials from "./sections/Testimonials.jsx";
-import Contact from "./sections/Contact.jsx";
-import Footer from "./component/Footer.jsx";
+import Navbar from "./component/Navbar";
+import Hero from "./sections/Hero";
+import FeaturedCoffee from "./sections/FeaturedCoffee";
+import About from "./sections/About";
+import WhyChooseUs from "./sections/WhyChooseUs";
+import Menu from "./sections/Menu";
+import Gallery from "./sections/Gallery";
+import Testimonials from "./sections/Testimonials";
+import Contact from "./sections/Contact";
+import Footer from "./component/Footer";
 
 function App() {
   return (
