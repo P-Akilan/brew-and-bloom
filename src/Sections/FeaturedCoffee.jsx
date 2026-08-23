@@ -1,6 +1,6 @@
-import ClassicCappuccino from "../assets/Images/Classic-Cappuccino.jpg";
-import CaramelLatte from "../assets/Images/Caramel-Latte.jpg";
-import MochaDelight from "../assets/Images/Mocha-Delight.jpg";
+import ClassicCappuccino from "../assets/images/Classic-Cappuccino.jpg";
+import CaramelLatte from "../assets/images/Caramel-Latte.jpg";
+import MochaDelight from "../assets/images/Mocha-Delight.jpg";
 
 const coffeeItems = [
   {

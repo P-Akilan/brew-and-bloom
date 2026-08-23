@@ -1,4 +1,4 @@
-import cafeshop from "../assets/Images/cafeshop2.jpg";
+import cafeshop from "../assets/images/cafeshop2.jpg";
 
 function About() {
   return (

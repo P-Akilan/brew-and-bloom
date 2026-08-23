@@ -1,13 +1,13 @@
-import Navbar from "./Component/Navbar";
-import Hero from "./Sections/Hero";
-import FeaturedCoffee from "./Sections/FeaturedCoffee";
-import About from "./Sections/About";
-import WhyChooseUs from "./Sections/WhyChooseUs";
-import Menu from "./Sections/Menu";
-import Gallery from "./Sections/Gallery";
-import Testimonials from "./Sections/Testimonials";
-import Contact from "./Sections/Contact";
-import Footer from "./Component/Footer";
+import Navbar from "./component/Navbar";
+import Hero from "./sections/Hero";
+import FeaturedCoffee from "./sections/FeaturedCoffee";
+import About from "./sections/About";
+import WhyChooseUs from "./sections/WhyChooseUs";
+import Menu from "./sections/Menu";
+import Gallery from "./sections/Gallery";
+import Testimonials from "./sections/Testimonials";
+import Contact from "./sections/Contact";
+import Footer from "./component/Footer";
 
 function App() {
   return (
