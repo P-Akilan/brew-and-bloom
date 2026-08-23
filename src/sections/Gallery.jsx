@@ -1,5 +1,5 @@
-import Gallerygroupcoffee3 from "../assets/images/Gallery-group-coffee3.jpg";
-import Gallerygroupcoffee2 from "../assets/images/Gallery-group-coffee2.jpg";
+import Gallerygroupcoffee3 from "../assets/images/Gallery-group-Coffee3.jpg";
+import Gallerygroupcoffee2 from "../assets/images/Gallery-group-Coffee2.jpg";
 import cafeshop3 from "../assets/images/cafeshop3.jpg";
 import cafeshop from "../assets/images/cafeshop2.jpg";
 
